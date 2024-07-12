@@ -1,6 +1,6 @@
 <html>
 <head>
-<title> practice tutorial</title>
+<title> practice tutoria</title>
 </head>
 <body>
 <h1> introduction to mt favorite animes</h1>
